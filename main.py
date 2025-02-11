@@ -13,4 +13,4 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
 
-# See PyCharm help t https://www.jetbrains.com/help/pycharm/
+# See PyChrm help t https://www.jetbrains.com/help/pycharm/
